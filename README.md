@@ -51,7 +51,21 @@ My experience spans designing robust cloud architectures, implementing monitorin
 
 **GitHub Repository**: [View Project](https://github.com/iam-ismaeel/Design-and-implementation-of-AWS-infrastructure)
 
+### **3. A Robust Centralized OBservability System**
 
+**Description**: Designed and Implemeted a Robust Centralized Monitoring,Logging,Tracing and Alerting Systems,to proactivley enure zero system downtime.
+
+**Technologies**: Prometheus,Grafana,EFK stack,Jaeger and Open-Telemetry,Helm,Nginx ingress.
+
+**GitHub Repository**: [View Project](https://github.com/iam-ismaeel/System-Observability-Setup).
+
+### **3. A Robust Centralized OBservability System**
+
+**Description**: Designed and Implemeted a Robust Centralized Monitoring,Logging,Tracing and Alerting Systems,to proactivley enure zero system downtime.
+
+**Technologies**: Prometheus,Grafana,EFK stack,Jaeger and Open-Telemetry,Helm,Nginx ingress.
+
+**GitHub Repository**: [View Project](https://github.com/iam-ismaeel/System-Observability-Setup).
 
 
 
@@ -81,10 +95,6 @@ My experience spans designing robust cloud architectures, implementing monitorin
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-ismaeel&show_icons=true&locale=en&layout=compact" alt="iam-ismaeel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-ismaeel&show_icons=true&locale=en" alt="iam-ismaeel" /></p>
-
-
-
-
 
 
 

@@ -1,7 +1,8 @@
 <h1 align="center">Ismail Olamilekan Kasali</h1>
-<div align="center" style= "background-color: #34c759; border: 1px solid #34c759; border-radius: 5px; padding: 10px; ">
-  DevOps Engineer
-</div>
+
+
+<div align="center" style= "background-color: #34c759; border: 1px solid #34c759; border-radius: 5px; padding: 10px; "> DevOps Engineer  </div>
+
 <h4 align="center">I am a passionate DevOps engineer with a strong focus on automating workflows, optimizing infrastructure, and enhancing software delivery pipelines. With expertise in tools like Kubernetes, Docker, Terraform, and CI/CD platforms such as GitHub Actions, I specialize in bridging the gap between development and operations to deliver scalable, reliable solutions.
 
 My experience spans designing robust cloud architectures, implementing monitoring and alerting systems with Prometheus and Grafana, and fostering collaboration between teams through streamlined processes and tools. I thrive on solving complex problems, improving deployment efficiency, and ensuring high availability in fast-paced, dynamic environments.

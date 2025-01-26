@@ -1,13 +1,30 @@
 <h1 align="center">Ismail Olamilekan Kasali</h1>
 
-<h2 align="center"> DevOps Engineer | Cloud Specialist  </h2>
+<h3> DevOps Engineer | Cloud Specialist  </h3>
 
-[About Me](#about-me)|
-<h4 align="center">I am a passionate DevOps engineer with a strong focus on automating workflows, optimizing infrastructure, and enhancing software delivery pipelines. With expertise in tools like Kubernetes, Docker, Terraform, and CI/CD platforms such as GitHub Actions, I specialize in bridging the gap between development and operations to deliver scalable, reliable solutions.
+[About Me](#about-me) | [Technical Skills](#technical-skills) | [Projects](#projects) | [Contact Me](#contact-me)
+
+## **About Me**
+<h4 align="center">I'm a passionate DevOps engineer with a strong focus on automating workflows, optimizing infrastructure, and enhancing software delivery pipelines. With expertise in tools like Kubernetes, Docker, Terraform, and CI/CD platforms such as GitHub Actions, I specialize in bridging the gap between development and operations to deliver scalable, reliable solutions.
 
 My experience spans designing robust cloud architectures, implementing monitoring and alerting systems with Prometheus and Grafana, and fostering collaboration between teams through streamlined processes and tools. I thrive on solving complex problems, improving deployment efficiency, and ensuring high availability in fast-paced, dynamic environments.
+</h4>
 
- </h4>
+**📍 Location**: [Lagos, Nigeria]
+
+**🎯 Focus Areas**: Container Orchestration, Cloud Computing, Infrastructure as code(IAC), Observability and Automation.
+
+**✨ Fun Fact**: I enjoy technical challenges and writing technical blogs!
+
+---
+
+## **Technical skills**
+Here are some of the tools and technologies i work with:
+
+| **************Categories**************| *******Tools/Technologies***********
+
+|---------------------------------------|-------------------------------------|
+
 
  
 <img align="right" alt="Engineer" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

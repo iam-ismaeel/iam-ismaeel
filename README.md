@@ -14,6 +14,10 @@
 <h4 align="center">Hello,I'm</h4>
 <h1 align="center">Ismail Olamilekan Kasali</h1>
 <h3 align="center"> DevOps Engineer | Cloud Specialist  </h3>
+<div align="center">
+<a href="https://github.com/iam-ismaeel/Resume.pdf/blob/main/Ismail%20Olamilekan%20Kasali.pdf" target="_blank"><img  src="https://as1.ftcdn.net/v2/jpg/03/02/02/84/1000_F_302028495_mVRZABugr4Blucs3mtTaG9dzxR756Mzj.jpg" 
+alt="Ismail Olamilekan Kasali" height="120" width="100"/> <h4>Download Resume</h4><a/>
+</div>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=iam-ismaeel&label=Profile%20views&color=0e75b6&style=flat" alt="iam-ismaeel" /> </p>
 
@@ -113,11 +117,8 @@ alt="Ismail Olamilekan Kasali" height="40" width="40"/><a/>
 
  
 
- [About Me](#about-me)
-<p>
-<a href="https://github.com/iam-ismaeel/Resume.pdf" target="_blank"><img align="center" src="https://w7.pngwing.com/pngs/723/855/png-transparent-form-google-docs-computer-software-google-drive-creating-an-exceptional-resume-blue-text-logo.png" 
-alt="Ismail Olamilekan Kasali" height="40" width="40"/><a/>
-</p>
+
+
 
 
 

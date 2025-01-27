@@ -1,5 +1,5 @@
 <h1 align="center">Ismail Olamilekan Kasali</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-ismaeel&label=Profile%20views&color=0e75b6&style=flat" alt="iam-ismaeel" /> </p>
 <h3> DevOps Engineer | Cloud Specialist  </h3>
 
 [About Me](#about-me) | [Technical Skills](#technical-skills) | [Projects](#projects) | [Contact Me](#contact-me)
@@ -72,13 +72,23 @@ My experience spans designing robust cloud architectures, implementing monitorin
 
 ## **Contact Me**
 
-Feel free toreach out for collaborations,job opportunities, or technical discussions.
+<h4>Feel free to connect with me for collaborations,job opportunities, or technical discussions.</h4>
+<p>
+<a href="kasaliismail2@gmail.com" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.4HSR3CihtG1raZ0Sh0SOMgHaHa?w=900&h=900&rs=1&pid=ImgDetMain" 
+alt="Ismail Olamilekan Kasali" height="40" width="40"/><a/>
+</p>
 
-. **📨 Email**: [kasaliismail2@gmail.com](mailto:kasaliismail2@gmail.com)
 
-. **📩 LinkedIn**: [My LinkedIn Profile:](https://www.linkedin.com/in/ismail-kasali-446745197)
+<p>
+<a href="https://www.linkedin.com/in/ismail-kasali-446745197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ismail Olamilekan Kasali" height="40" width="40" /></a>
+</p>
 
-. **💻 GitHub**: [My GitHub Profile](https://github.com/iam-ismaeel)
+<p>
+<a href="https://github.com/iam-ismaeel" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.trHFNLAvbj2Qm2t1XS_5PgAAAA?w=203&h=249&rs=1&pid=ImgDetMain" 
+alt="Ismail Olamilekan Kasali" height="40" width="40"/><a/>
+</p>
+
+
 
 ---
 
@@ -89,28 +99,15 @@ Feel free toreach out for collaborations,job opportunities, or technical discuss
  
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-ismaeel&label=Profile%20views&color=0e75b6&style=flat" alt="iam-ismaeel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iam-ismaeel" alt="iam-ismaeel" /></a> </p>
-
-- 🔭 I’m currently working on **Deployment of maven project to tomcat server**
-
-- 🌱 I’m currently learning **Github actions and Kubernetes**
-
-- 💬 Ask me about **Jenkins,Linux and Aws**
-
-- 📫 How to reach me **kasaliismail2@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ismail olamilekan kasali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismail olamilekan kasali" height="30" width="40" /></a>
-</p>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-ismaeel&show_icons=true&locale=en&layout=compact" alt="iam-ismaeel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-ismaeel&show_icons=true&locale=en" alt="iam-ismaeel" /></p>
+
+
+
+
+
 
 
 

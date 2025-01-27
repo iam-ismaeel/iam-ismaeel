@@ -11,9 +11,9 @@
 
 
 
-<h4 align="center">Hello,I'm</h4>
+<h4 align="center">Hello, I'm</h4>
 <h1 align="center">Ismail Olamilekan Kasali</h1>
-<h3 align="center"> DevOps Engineer | Cloud Specialist  </h3>
+<h3 align="center"> DevOps Engineer | Cloud Automation Specialist  </h3>
 <div align="center">
 <a href="https://github.com/iam-ismaeel/Resume.pdf/blob/main/Ismail%20Olamilekan%20Kasali.pdf" target="_blank"><img  src="https://as1.ftcdn.net/v2/jpg/03/02/02/84/1000_F_302028495_mVRZABugr4Blucs3mtTaG9dzxR756Mzj.jpg" 
 alt="Ismail Olamilekan Kasali" height="120" width="100"/> <h4>Download Resume</h4><a/>
@@ -22,7 +22,7 @@ alt="Ismail Olamilekan Kasali" height="120" width="100"/> <h4>Download Resume</h
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=iam-ismaeel&label=Profile%20views&color=0e75b6&style=flat" alt="iam-ismaeel" /> </p>
 
 
-
+###### Get To Know More
 ## **About Me**
 <h4 align="center">I'm a passionate DevOps engineer with a strong focus on automating workflows, optimizing infrastructure, and enhancing software delivery pipelines. With expertise in tools like Kubernetes, Docker, Terraform, and CI/CD platforms such as GitHub Actions, I specialize in bridging the gap between development and operations to deliver scalable, reliable solutions.
 
@@ -37,7 +37,7 @@ My experience spans designing robust cloud architectures, implementing monitorin
 
 ---
 
-
+###### Explore My
 ## **Technical skills**
 
 <h3 align="left">Here are some of the tools and technologies i work with:</h3>
@@ -53,6 +53,7 @@ My experience spans designing robust cloud architectures, implementing monitorin
 
 ---
 
+###### Browse My Recent
 ## **Projects**
 ### **1. CI/CD Pipeline Automation**
 
@@ -113,7 +114,13 @@ alt="Ismail Olamilekan Kasali" height="40" width="40"/><a/>
 
 
 
-© 2025 Ismail Olamilekan Kasali
+[About Me](#about-me) | [Technical Skills](#technical-skills) | [Projects](#projects) | [Contact Me](#contact-me)
+
+
+---
+
+
+Copyright © 2025 Ismail Olamilekan Kasali.All Rights Reserved
 
  
 

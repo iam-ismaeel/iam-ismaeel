@@ -1,8 +1,23 @@
-<h1 align="center">Ismail Olamilekan Kasali</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-ismaeel&label=Profile%20views&color=0e75b6&style=flat" alt="iam-ismaeel" /> </p>
-<h3> DevOps Engineer | Cloud Specialist  </h3>
+  [About Me](#about-me) | [Technical Skills](#technical-skills) | [Projects](#projects) | [Contact Me](#contact-me)
 
-[About Me](#about-me) | [Technical Skills](#technical-skills) | [Projects](#projects) | [Contact Me](#contact-me)
+<br>
+
+
+
+<br>
+
+
+<br>
+
+
+
+<h4 align="center">Hello,I'm</h4>
+<h1 align="center">Ismail Olamilekan Kasali</h1>
+<h3 align="center"> DevOps Engineer | Cloud Specialist  </h3>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=iam-ismaeel&label=Profile%20views&color=0e75b6&style=flat" alt="iam-ismaeel" /> </p>
+
+
 
 ## **About Me**
 <h4 align="center">I'm a passionate DevOps engineer with a strong focus on automating workflows, optimizing infrastructure, and enhancing software delivery pipelines. With expertise in tools like Kubernetes, Docker, Terraform, and CI/CD platforms such as GitHub Actions, I specialize in bridging the gap between development and operations to deliver scalable, reliable solutions.

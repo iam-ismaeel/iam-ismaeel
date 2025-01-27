@@ -67,11 +67,27 @@ My experience spans designing robust cloud architectures, implementing monitorin
 
 **GitHub Repository**: [View Project](https://github.com/iam-ismaeel/System-Observability-Setup).
 
+---
 
 
+## **Contact Me**
+
+Feel free toreach out for collaborations,job opportunities, or technical discussions.
+
+. **📨 Email**: [kasaliismail2@gmail.com](mailto:kasaliismail2@gmail.com)
+
+. **📩 LinkedIn**: [My LinkedIn Profile:](https://www.linkedin.com/in/ismail-kasali-446745197)
+
+. **💻 GitHub**: [My GitHub Profile](https://github.com/iam-ismaeel)
+
+---
+
+
+
+© 2025 Ismail Olamilekan Kasali
 
  
-<img align="right" alt="Engineer" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-ismaeel&label=Profile%20views&color=0e75b6&style=flat" alt="iam-ismaeel" /> </p>
 

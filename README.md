@@ -89,17 +89,17 @@ My experience spans designing robust cloud architectures, implementing monitorin
 
 <h4>Feel free to connect with me for collaborations,job opportunities, or technical discussions.</h4>
 <p>
-<a href="kasaliismail2@gmail.com" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.4HSR3CihtG1raZ0Sh0SOMgHaHa?w=900&h=900&rs=1&pid=ImgDetMain" 
+<a href="kasaliismail2@gmail.com" target="_blank"><img align="center" src="https://th.bing.com/th/id/OIP.4HSR3CihtG1raZ0Sh0SOMgHaHa?w=900&h=900&rs=1&pid=ImgDetMain" 
 alt="Ismail Olamilekan Kasali" height="40" width="40"/><a/>
 </p>
 
 
 <p>
-<a href="https://www.linkedin.com/in/ismail-kasali-446745197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ismail Olamilekan Kasali" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/ismail-kasali-446745197" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ismail Olamilekan Kasali" height="40" width="40" /></a>
 </p>
 
 <p>
-<a href="https://github.com/iam-ismaeel" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.trHFNLAvbj2Qm2t1XS_5PgAAAA?w=203&h=249&rs=1&pid=ImgDetMain" 
+<a href="https://github.com/iam-ismaeel" target="_blank"><img align="center" src="https://th.bing.com/th/id/OIP.trHFNLAvbj2Qm2t1XS_5PgAAAA?w=203&h=249&rs=1&pid=ImgDetMain" 
 alt="Ismail Olamilekan Kasali" height="40" width="40"/><a/>
 </p>
 
@@ -113,9 +113,11 @@ alt="Ismail Olamilekan Kasali" height="40" width="40"/><a/>
 
  
 
-
-
-
+ [About Me](#about-me)
+<p>
+<a href="https://github.com/iam-ismaeel/Resume.pdf" target="_blank"><img align="center" src="https://w7.pngwing.com/pngs/723/855/png-transparent-form-google-docs-computer-software-google-drive-creating-an-exceptional-resume-blue-text-logo.png" 
+alt="Ismail Olamilekan Kasali" height="40" width="40"/><a/>
+</p>
 
 
 

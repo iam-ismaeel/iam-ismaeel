@@ -93,7 +93,7 @@ My experience spans designing robust cloud architectures, implementing monitorin
 
 <h4>Feel free to connect with me for collaborations,job opportunities, or technical discussions.</h4>
 <p>
-<a href="kasaliismail2@gmail.com" target="_blank"><img align="center" src="https://th.bing.com/th/id/OIP.4HSR3CihtG1raZ0Sh0SOMgHaHa?w=900&h=900&rs=1&pid=ImgDetMain" 
+<a href="mailto:kasaliismail2@gmail.com" target="_blank"><img align="center" src="https://th.bing.com/th/id/OIP.4HSR3CihtG1raZ0Sh0SOMgHaHa?w=900&h=900&rs=1&pid=ImgDetMain" 
 alt="Ismail Olamilekan Kasali" height="40" width="40"/><a/>
 </p>
 

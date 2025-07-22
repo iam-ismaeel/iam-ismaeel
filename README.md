@@ -79,13 +79,13 @@ My experience spans designing robust cloud architectures, implementing monitorin
 
 **GitHub Repository**: [View Project](https://github.com/iam-ismaeel/System-Observability-Setup).
 
-### **3. A Robust Centralized OBservability System**
+### **4. Full-Stack E-Commerce Application with DevOps Excellence**
 
-**Description**: Designed and Implemeted a Robust Centralized Monitoring,Logging,Tracing and Alerting Systems,to proactivley enure zero system downtime.
+**Description**: Designed and Deployment of A Highly Scalable, Secure, and Cost-Optimized Microservices-Based E-Commerce Platform.
 
-**Technologies**: Prometheus,Grafana,EFK stack,Jaeger and Open-Telemetry,Helm,Nginx ingress.
+**Technologies**: Github Actions,Trivy,AWS Services(CodeDeploy,Relational Database,EC2 Instances,S3 Buckets,Budgets,Cost explorer,Cloudwatch,Route53 etc.)
 
-**GitHub Repository**: [View Project](https://github.com/iam-ismaeel/System-Observability-Setup).
+**GitHub Repository**: [View Project](https://github.com/iam-ismaeel/Automatic-fullstack-app-deployment-.git).
 
 ---
 

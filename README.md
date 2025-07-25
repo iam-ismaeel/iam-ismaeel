@@ -8,10 +8,10 @@
 
 
 <br>
-<!-- Dev.to Articles -->
-<a target="_blank" href="https://github-readme-devto.vercel.app/api?username=iam-ismaeel">
-  <img src="https://github-readme-devto.vercel.app/api?username=yourdevtousername" alt="Dev.to Blog" />
-</a>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [E-Commerce DevOps](/) | Full CI/CD pipeline | AWS, Kubernetes, Terraform |
+| [Cloud Monitoring](/) | Real-time observability | Prometheus, Grafana |
 
 
 <div align="center">

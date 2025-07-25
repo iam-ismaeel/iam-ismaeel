@@ -8,7 +8,7 @@
 
 
 <br>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Welcome+to+my+world!;DevOps+%7C+AWS+%7C+Kubernetes)](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -115,8 +115,6 @@ alt="Ismail Olamilekan Kasali" height="40" width="40"/><a/>
 
 
 ---
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-ismaeel&show_icons=true&theme=radical)
-
 <div align="center">
 
 <!-- GitHub Stats Card -->

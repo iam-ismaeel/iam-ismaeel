@@ -13,7 +13,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&height=80&lines=Hello%2C+I'm" alt="Hello, I'm" />
-  
   <!-- Gradient Animated Name -->
   <h1 style="font-family: 'Segoe UI', sans-serif; font-size: 3rem; font-weight: 700; background: linear-gradient(90deg, #FF6B6B, #4ECDC4, #45B7D1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 10px 0;">Ismail Olamilekan Kasali</h1>
   

@@ -83,7 +83,7 @@ My experience spans designing robust cloud architectures, implementing monitorin
 
 **Description**: Designed and Deployment of A Highly Scalable, Secure, and Cost-Optimized Microservices-Based E-Commerce Platform.
 
-**Technologies**: Github Actions,Trivy,AWS Services(CodeDeploy,Relational Database,EC2 Instances,S3 Buckets,Budgets,Cost explorer,Cloudwatch,Route53 etc.)
+**Technologies**: Github Actions,Trivy,Nginx,AWS Services(CodeDeploy,Relational Database,EC2 Instances,S3 Buckets,Budgets,Cost explorer,Cloudwatch,Route53 etc.)
 
 **GitHub Repository**: [View Project](https://github.com/iam-ismaeel/Automatic-fullstack-app-deployment-.git).
 

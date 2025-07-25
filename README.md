@@ -8,11 +8,16 @@
 
 
 <br>
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
-  
-Latest tweet:  
-![](https://github-readme-twitter.gazf.vercel.app/api?id=yourhandle&layout=wide)
-
+```python
+print("""
+   _____
+  / ____|
+ | (___   ___ _ __ _ __ ___  
+  \___ \ / _ \ '__| '_ ` _ \ 
+  ____) |  __/ |  | | | | | |
+ |_____/ \___|_|  |_| |_| |_|
+""")
+```
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&height=80&lines=Hello%2C+I'm" alt="Hello, I'm" />

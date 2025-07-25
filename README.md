@@ -17,7 +17,7 @@
   <h1 style="font-family: 'Segoe UI', sans-serif; font-size: 3rem; font-weight: 700; background: linear-gradient(90deg, #FF6B6B, #4ECDC4, #45B7D1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 10px 0;">Ismail Olamilekan Kasali</h1>
   
   <!-- Animated Role Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=30&lines=DevOps+Engineer+%7C+Cloud+Automation+Specialist" alt="DevOps Engineer | Cloud Automation Specialist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=30&lines=DevOps+Engineer+%7C+Cloud+Automation+Specialist" alt="DevOps Engineer" />
 </div>
 <a href="https://github.com/iam-ismaeel/Resume.pdf/blob/main/Ismail%20Olamilekan%20Kasali.pdf" target="_blank"><img  src="https://as1.ftcdn.net/v2/jpg/03/02/02/84/1000_F_302028495_mVRZABugr4Blucs3mtTaG9dzxR756Mzj.jpg" 
 alt="Ismail Olamilekan Kasali" height="120" width="100"/> <h4>Download Resume</h4><a/>

@@ -8,7 +8,7 @@
 
 
 <br>
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&redirect=true)
+[![3D Contributions](https://github-profile-3d-contributions.vercel.app/api?username=yourusername&theme=github_dark)](https://github.com/yoshi389111/github-profile-3d-contributions)
 
 
 <div align="center">
@@ -118,22 +118,22 @@ alt="Ismail Olamilekan Kasali" height="40" width="40"/><a/>
 <div align="center">
 
 <!-- GitHub Stats Card -->
-<a href="https://github.com/your-username">
+<a href="https://github.com/iam-ismaeel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iam-ismaeel&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </a>
 
 <!-- Most Used Languages -->
-<a href="https://github.com/your-username">
+<a href="https://github.com/iam-ismaeel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-ismaeel&layout=compact&theme=radical&langs_count=8&hide=html,css" alt="Top Languages" />
 </a>
 
 <!-- GitHub Streak Stats -->
-<a href="https://github.com/your-username">
+<a href="https://github.com/iam-ismaeel">
   <img height="180em" src="https://streak-stats.demolab.com?user=iam-ismaeel&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </a>
 
 <!-- GitHub Contribution Graph -->
-<a href="https://github.com/your-username">
+<a href="https://github.com/iam-ismaeel">
   <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=iam-ismaeel&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph" />
 </a>
 

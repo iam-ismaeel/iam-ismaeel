@@ -17,7 +17,7 @@
   <h1 style="font-family: 'Segoe UI', sans-serif; font-size: 3rem; font-weight: 700; background: linear-gradient(90deg, #FF6B6B, #4ECDC4, #45B7D1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 10px 0;">Ismail Olamilekan Kasali</h1>
   
   <!-- Animated Role Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=30&lines=DevOps+Engineer" alt="DevOps Engineer | Cloud Automation Specialist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=30&lines=DevOps+Engineer" alt="DevOps Engineer" />
 </div>
 <a href="https://github.com/iam-ismaeel/Resume.pdf/blob/main/Ismail%20Olamilekan%20Kasali.pdf" target="_blank"><img  src="https://as1.ftcdn.net/v2/jpg/03/02/02/84/1000_F_302028495_mVRZABugr4Blucs3mtTaG9dzxR756Mzj.jpg" 
 alt="Ismail Olamilekan Kasali" height="120" width="100"/> <h4>Download Resume</h4><a/>
@@ -42,7 +42,7 @@ My experience spans designing robust cloud architectures, implementing monitorin
 ---
 
 ###### Explore My
-## **Technical skills**
+## **Technological skills**
 
 <h3 align="left">Here are some of the tools and technologies i work with:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.ytWUF2THI5TXiw51HIrKmwHaFy?rs=1&pid=ImgDetMain" alt="terraform" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">  

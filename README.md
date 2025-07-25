@@ -8,16 +8,7 @@
 
 
 <br>
-```python
-print("""
-   _____
-  / ____|
- | (___   ___ _ __ _ __ ___  
-  \___ \ / _ \ '__| '_ ` _ \ 
-  ____) |  __/ |  | | | | | |
- |_____/ \___|_|  |_| |_| |_|
-""")
-```
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/badges/yourbadgeid)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&height=80&lines=Hello%2C+I'm" alt="Hello, I'm" />

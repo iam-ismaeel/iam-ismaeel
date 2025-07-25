@@ -8,7 +8,7 @@
 
 
 <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Welcome+to+my+world!;DevOps+%7C+AWS+%7C+Kubernetes)](https://git.io/typing-svg)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&redirect=true)
 
 
 <div align="center">

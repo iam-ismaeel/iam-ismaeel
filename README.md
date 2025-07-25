@@ -25,7 +25,7 @@ alt="Ismail Olamilekan Kasali" height="120" width="100"/> <h4>Download Resume</h
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=iam-ismaeel&label=Profile%20views&color=0e75b6&style=flat" alt="iam-ismaeel" /> </p>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-ismaeel&show_icons=true&theme=radical)
+
 ###### Get To Know More
 ## **About Me**
 <h4 align="center">I'm a passionate DevOps engineer with a strong focus on automating workflows, optimizing infrastructure, and enhancing software delivery pipelines. With expertise in tools like Kubernetes, Docker, Terraform, and CI/CD platforms such as GitHub Actions, I specialize in bridging the gap between development and operations to deliver scalable, reliable solutions.
@@ -115,8 +115,13 @@ alt="Ismail Olamilekan Kasali" height="40" width="40"/><a/>
 
 
 ---
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-ismaeel&show_icons=true&theme=radical)
+---
 
-
+<div align="center" style="background: url('assets/bg.png') no-repeat center; padding: 20px;">
+  <!-- Your content -->
+</div>
+---
 
 [About Me](#about-me) | [Technical Skills](#technical-skills) | [Projects](#projects) | [Contact Me](#contact-me)
 

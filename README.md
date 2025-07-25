@@ -8,10 +8,10 @@
 
 
 <br>
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [E-Commerce DevOps](/) | Full CI/CD pipeline | AWS, Kubernetes, Terraform |
-| [Cloud Monitoring](/) | Real-time observability | Prometheus, Grafana |
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+  
+Latest tweet:  
+![](https://github-readme-twitter.gazf.vercel.app/api?id=yourhandle&layout=wide)
 
 
 <div align="center">
